@@ -1,0 +1,13 @@
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.exe
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.deps.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.runtimeconfig.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.runtimeconfig.dev.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\netcoreapp3.1\TestClrApp.pdb
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.csprojAssemblyReference.cache
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.AssemblyInfoInputs.cache
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.AssemblyInfo.cs
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.csproj.CoreCompileInputs.cache
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.pdb
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\netcoreapp3.1\TestClrApp.genruntimeconfig.cache
