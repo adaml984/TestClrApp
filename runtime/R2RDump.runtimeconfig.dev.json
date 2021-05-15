@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/alamarz/.dotnet/store/|arch|/|tfm|",
+      "/home/alamarz/src/man/coreclr/.packages"
+    ]
+  }
+}

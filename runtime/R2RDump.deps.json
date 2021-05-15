@@ -1,0 +1,137 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "R2RDump/4.7.0-dev.21265.1": {
+        "dependencies": {
+          "Microsoft.NETCore.CoreDisTools": "1.0.1-prerelease-00005",
+          "Microsoft.Net.Compilers.Toolset": "3.3.0-beta2-19367-02",
+          "Microsoft.SourceLink.AzureRepos.Git": "1.1.0-beta-20206-02",
+          "Microsoft.SourceLink.GitHub": "1.1.0-beta-20206-02",
+          "System.CommandLine": "0.1.0-e160119-1",
+          "System.Reflection.Metadata": "1.6.0"
+        },
+        "runtime": {
+          "R2RDump.dll": {}
+        }
+      },
+      "Microsoft.Build.Tasks.Git/1.1.0-beta-20206-02": {},
+      "Microsoft.Net.Compilers.Toolset/3.3.0-beta2-19367-02": {},
+      "Microsoft.NETCore.CoreDisTools/1.0.1-prerelease-00005": {},
+      "Microsoft.SourceLink.AzureRepos.Git/1.1.0-beta-20206-02": {
+        "dependencies": {
+          "Microsoft.Build.Tasks.Git": "1.1.0-beta-20206-02",
+          "Microsoft.SourceLink.Common": "1.1.0-beta-20206-02"
+        }
+      },
+      "Microsoft.SourceLink.Common/1.1.0-beta-20206-02": {},
+      "Microsoft.SourceLink.GitHub/1.1.0-beta-20206-02": {
+        "dependencies": {
+          "Microsoft.Build.Tasks.Git": "1.1.0-beta-20206-02",
+          "Microsoft.SourceLink.Common": "1.1.0-beta-20206-02"
+        }
+      },
+      "System.Collections.Immutable/1.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.CommandLine/0.1.0-e160119-1": {
+        "runtime": {
+          "lib/portable-net45+win8+wpa81+aspnetcore50/System.CommandLine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Reflection.Metadata/1.6.0": {
+        "dependencies": {
+          "System.Collections.Immutable": "1.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {
+            "assemblyVersion": "1.4.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "R2RDump/4.7.0-dev.21265.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Build.Tasks.Git/1.1.0-beta-20206-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZ9leS9Yd9MHpqvviMftSJFDcLYu2h1DrapW1TDm1s1fgOy71c8HvArNMd3fseVkXmp3VTfGnkgcw0FR+TI6xw==",
+      "path": "microsoft.build.tasks.git/1.1.0-beta-20206-02",
+      "hashPath": "microsoft.build.tasks.git.1.1.0-beta-20206-02.nupkg.sha512"
+    },
+    "Microsoft.Net.Compilers.Toolset/3.3.0-beta2-19367-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lwJr3GYo6JUc0nFYPU0hPj0w9nLzo+XXAKG+B91ijRHTv3ZlxRZm1JZGEKMG9+TZDXN+CUyBhzU0PBOSb2cBbg==",
+      "path": "microsoft.net.compilers.toolset/3.3.0-beta2-19367-02",
+      "hashPath": "microsoft.net.compilers.toolset.3.3.0-beta2-19367-02.nupkg.sha512"
+    },
+    "Microsoft.NETCore.CoreDisTools/1.0.1-prerelease-00005": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0W+EnTi9FjeVJqyVmOvQVJVwyEphwPlIdsYg1f1aWXtNC6TbjuCUwgfrmtQBtnqAP99s7IZ9wPGKr0nDqgJmqQ==",
+      "path": "microsoft.netcore.coredistools/1.0.1-prerelease-00005",
+      "hashPath": "microsoft.netcore.coredistools.1.0.1-prerelease-00005.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.AzureRepos.Git/1.1.0-beta-20206-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vVYhSds9TfraTQkGHHMDMVWnr3kCkTZ7vmqUmrXQBDJFXiWTuMoP5RRa9s1M/KmgB4szi5TOb7sOaHWKDT9qDA==",
+      "path": "microsoft.sourcelink.azurerepos.git/1.1.0-beta-20206-02",
+      "hashPath": "microsoft.sourcelink.azurerepos.git.1.1.0-beta-20206-02.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.Common/1.1.0-beta-20206-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aek0RTQ+4Bf11WvqaXajwYoaBWkX2edBjAr5XJOvhAsHX6/9vPOb7IpHAiE/NyCse7IcpGWslJZHNkv4UBEFqw==",
+      "path": "microsoft.sourcelink.common/1.1.0-beta-20206-02",
+      "hashPath": "microsoft.sourcelink.common.1.1.0-beta-20206-02.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.GitHub/1.1.0-beta-20206-02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7A7P0EwL+lypaI/CEvG4IcpAlQeAt04uPPw1SO6Q9Jwz2nE9309pQXJ4TfP/RLL8IOObACidN66+gVR+bJDZHw==",
+      "path": "microsoft.sourcelink.github/1.1.0-beta-20206-02",
+      "hashPath": "microsoft.sourcelink.github.1.1.0-beta-20206-02.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EXKiDFsChZW0RjrZ4FYHu9aW6+P4MCgEDCklsVseRfhoO0F+dXeMSsMRAlVXIo06kGJ/zv+2w1a2uc2+kxxSaQ==",
+      "path": "system.collections.immutable/1.5.0",
+      "hashPath": "system.collections.immutable.1.5.0.nupkg.sha512"
+    },
+    "System.CommandLine/0.1.0-e160119-1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYboqwn0ugSxcrs2n8eOYG5YdLPdpcn7OO9BWxSpvU9gnc0fatf7IEsaZdgzZvJjlekDZsJyAAk5bbVkZh8aMA==",
+      "path": "system.commandline/0.1.0-e160119-1",
+      "hashPath": "system.commandline.0.1.0-e160119-1.nupkg.sha512"
+    },
+    "System.Reflection.Metadata/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
+      "path": "system.reflection.metadata/1.6.0",
+      "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
+    }
+  }
+}
