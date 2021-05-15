@@ -1,4 +1,6 @@
 *.bz2 filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
 *.suo filter=lfs diff=lfs merge=lfs -text
 *.sln filter=lfs diff=lfs merge=lfs -text
 *.cs filter=lfs diff=lfs merge=lfs -text
@@ -14,8 +16,6 @@
 *.v2 filter=lfs diff=lfs merge=lfs -text
 *.xml filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
-*.a filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
 /runtime/coreconsole filter=lfs diff=lfs merge=lfs -text
 /runtime/corerun filter=lfs diff=lfs merge=lfs -text
 /runtime/crossgen filter=lfs diff=lfs merge=lfs -text
