@@ -3,7 +3,6 @@ C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\x86\Debug\netcoreapp2.1\
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\x86\Debug\netcoreapp2.1\TestClrApp.runtimeconfig.dev.json
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\x86\Debug\netcoreapp2.1\TestClrApp.dll
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\x86\Debug\netcoreapp2.1\TestClrApp.pdb
-C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\x86\Debug\netcoreapp2.1\TestClrApp.csprojAssemblyReference.cache
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\x86\Debug\netcoreapp2.1\TestClrApp.AssemblyInfoInputs.cache
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\x86\Debug\netcoreapp2.1\TestClrApp.AssemblyInfo.cs
 C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\x86\Debug\netcoreapp2.1\TestClrApp.csproj.CoreCompileInputs.cache
