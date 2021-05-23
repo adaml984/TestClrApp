@@ -1,0 +1,15 @@
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.exe
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.deps.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.runtimeconfig.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.runtimeconfig.dev.json
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\ref\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\bin\Debug\net5.0\TestClrApp.pdb
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.AssemblyInfoInputs.cache
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.AssemblyInfo.cs
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.csproj.CoreCompileInputs.cache
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\ref\TestClrApp.dll
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.pdb
+C:\Users\alamarz\source\repos\TestClrApp\TestClrApp\obj\Debug\net5.0\TestClrApp.genruntimeconfig.cache
