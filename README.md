@@ -1,1 +1,1 @@
-App for testing net core x86
+App for testing custom build of net core x86
